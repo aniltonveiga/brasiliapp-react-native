@@ -15,3 +15,30 @@ Contato: E a última aba é onde possui informações de contato, como endereço
 
 Aplicativo já publicado na PlayStore (https://play.google.com/store/apps/details?id=com.brasiliapp)
 
+## Telas do aplicativo
+### Listagem de senadores
+<img src="https://github.com/aniltonveiga/brasiliapp-react-native/blob/master/images/screen1.png" width="400">
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Listagem de deputados
+<img src="https://github.com/aniltonveiga/brasiliapp-react-native/blob/master/images/screen2.png" width="400">
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Despesas de um deputado
+<img src="https://github.com/aniltonveiga/brasiliapp-react-native/blob/master/images/screen3.png" width="400">
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Projetos de um deputado
+<img src="https://github.com/aniltonveiga/brasiliapp-react-native/blob/master/images/screen4.png" width="400">
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Íntegra de um projeto em PDF
+<img src="https://github.com/aniltonveiga/brasiliapp-react-native/blob/master/images/screen5.png" width="400">
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Movimentação de um projeto
+<img src="https://github.com/aniltonveiga/brasiliapp-react-native/blob/master/images/screen6.png" width="400">
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Contato a um deputado
+<img src="https://github.com/aniltonveiga/brasiliapp-react-native/blob/master/images/screen7.png" width="400">
