@@ -1,44 +1,42 @@
-# Sobre o BrasiliApp
-O BrasiliApp foi um aplicativo feito por mim utilizando a biblioteca react-native para praticar os ensinamentos passados pela RocketSeat no treinamento ou bootcamp GoNative.
+# About the BrasiliApp
+The app works by consulting Api's government and providing information often difficult to find by ordinary users.
 
-O app funciona consultando Api's do governo e disponibilizando informações muitas vezes difíceis de serem encontradas por usuários comuns.
+## What data the application shows?
+The app shows different information for deputies and senators, since the Api's provided by the federal government are different in organization and granularities, such as the expenses of the parliamentary quota, which are made available via api to the deputies, but are not made available to the senators.
 
-## Que dados o aplicativo mostra?
-O app mostra informações diferentes para deputados e senadores, pois as Api's disponibilizadas pelo governo federal são diferentes em organização e granularidades, como por exemplo os gastos da cota parlamentar, que são disponibilizados via api para os deputados, mas não são disponibilizados para os senadores.
+For the deputies, the information displayed is:
+Expenses: In the Expense tab, a list of the deputy's expenses in the current month is displayed, and the user can navigate through a tab and see the expenses of previous months, in that listing besides the value information, there is the date information, and the company where the member of parliament held that expenditure.
 
-Para os deputados, as informações exibidas são de:
-Despesas: Na aba de despesas é exibida uma listagem dos gastos do deputado no mês atual, e o usuário pode navegar por uma aba e ver as despesas de meses anteriores, nessa listagem além da informação do valor, existe as informações de data, e a empresa onde o parlamentar realizou aquele gasto.
+Projects: In the projects tab it is possible for the user to take notice of the projects in which the parliamentarian participated in the current year by a navigation consult projects of previous years. In the detail of each project it is possible to see in which situation is the movement of the respective project in the camera and also to see the integral of the document that originated the opening of that project.
 
-Projetos: Na aba de projetos é possivel que o usuário tome conhecimento dos proejetos em que o parlamentar participou no ano corrente por uma navegação consultar projetos de anos anteriores. No detalhamento de cada projeto é possivel  ver em que situação está a movimentação do respectivo projeto na camâra e também ver a integra do documento que originou a abertura daquele projeto.
+Contact: And the last tab is where you have contact information, such as the office address, email and the office phone, in case the user wants to speak to the parliamentarian's office, just click the call button now :)
 
-Contato: E a última aba é onde possui informações de contato, como endereço do gabinete, e-mail e o telefone do gabinete, caso o usuário queira falar com o gabinete do parlamentar, basta clicar no botão ligar agora :)
+Application already published in PlayStore (https://play.google.com/store/apps/details?id=com.brasiliapp)
 
-Aplicativo já publicado na PlayStore (https://play.google.com/store/apps/details?id=com.brasiliapp)
-
-## Telas do aplicativo
-### Listagem de senadores
+## App screens
+### List of senators
 <img src="https://github.com/aniltonveiga/brasiliapp-react-native/blob/master/images/screen1.png" width="400">
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Listagem de deputados
+### List of deputies
 <img src="https://github.com/aniltonveiga/brasiliapp-react-native/blob/master/images/screen2.png" width="400">
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Despesas de um deputado
+### Expenses of a Deputie
 <img src="https://github.com/aniltonveiga/brasiliapp-react-native/blob/master/images/screen3.png" width="400">
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Projetos de um deputado
+### Projects of a Deputie
 <img src="https://github.com/aniltonveiga/brasiliapp-react-native/blob/master/images/screen4.png" width="400">
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Íntegra de um projeto em PDF
+### Information on draft laws
 <img src="https://github.com/aniltonveiga/brasiliapp-react-native/blob/master/images/screen5.png" width="400">
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Movimentação de um projeto
+### Status of draft laws
 <img src="https://github.com/aniltonveiga/brasiliapp-react-native/blob/master/images/screen6.png" width="400">
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Contato a um deputado
+### Contact a politician
 <img src="https://github.com/aniltonveiga/brasiliapp-react-native/blob/master/images/screen7.png" width="400">
